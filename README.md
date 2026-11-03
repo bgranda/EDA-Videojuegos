@@ -6,6 +6,7 @@ La obtención de datos se ha realizado en la página de Kaggle, de la cual se ha
 
 # Hipótesis de los datos
 
-Plataforma que más videojuegos vende.
-Si la plataforma depende del género de videojuegos.
-Si hay mayor número de ventas de videojuegos, en una región u otra.
+Plataforma que más videojuegos vende a nivel mundial y si varia por regiones.
+Si las ventas de videojuegos depende de la plataforma y del género de videojuegos.
+¿Ha variado las ventas de videojuegos a lo largo de los años a nivel global y de una región a otra?
+Tipo de videojuegos más vendidos a nivel mundial y por regiones. ¿Varían a lo largo de los años?
