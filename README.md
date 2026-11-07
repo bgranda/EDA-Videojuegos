@@ -103,10 +103,8 @@ En Japón, el género más vendido es el **Rol de Nintendo**, a diferencia del r
 
 ## 🛠️ Tecnologías
 
-- Python 3
-- Jupyter Notebook
-- [pandas](https://pandas.pydata.org/) y [NumPy](https://numpy.org/) para el tratamiento de datos
-- [Matplotlib](https://matplotlib.org/) y [Seaborn](https://seaborn.pydata.org/) para gráficos estáticos
-- [Plotly Express](https://plotly.com/python/plotly-express/) para treemaps interactivos
-- [squarify](https://github.com/laserson/squarify)
+- **Lenguaje y entorno:** Python 3 y Jupyter Notebook
+- **Tratamiento de datos:** [pandas](https://pandas.pydata.org/) y [NumPy](https://numpy.org/)
+- **Visualización estática:** [Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/) y [squarify](https://github.com/laserson/squarify) (treemaps)
+- **Visualización interactiva:** [Plotly](https://plotly.com/python/) (Plotly Express, Graph Objects y `make_subplots`) para treemaps y gráficos interactivos
 
