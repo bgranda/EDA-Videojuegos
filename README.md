@@ -45,14 +45,6 @@ También cambian las preferencias: entre 1980 y 1999 dominaban los juegos de **P
 
 ### 2. Superventas
 
-| # | Videojuego | Ventas globales (M) |
-|---|---|---:|
-| 1 | Wii Sports | 165,27 |
-| 2 | Grand Theft Auto V | 140,60 |
-| 3 | Call of Duty: Black Ops 3 | 73,46 |
-| 4 | Mario Kart Wii | 71,34 |
-| 5 | Wii Sports Resort | 65,77 |
-
 - **Call of Duty** es la franquicia con más presencia en el Top 20 mundial.
 - Norteamérica y Europa tienen gustos similares (Wii Sports, GTA V, Call of Duty), aunque en Norteamérica destaca *Super Mario Bros.* y en Europa la saga *FIFA*.
 - Japón es muy diferente: lideran *New Super Mario Bros.*, *Pokémon* y *Animal Crossing*.
@@ -62,24 +54,12 @@ También cambian las preferencias: entre 1980 y 1999 dominaban los juegos de **P
 
 ### 3. Consolas
 
-| Plataforma | Ventas globales (M) |
-|---|---:|
-| PS3 | 1.816,53 |
-| X360 | 1.782,26 |
-| Wii | 1.770,14 |
-
 - **Norteamérica:** mismas preferencias que a nivel global (X360, Wii, PS3).
 - **Europa:** PS3 y Wii, con PS4 por delante de X360.
 - **Japón:** dominan las portátiles de Nintendo (DS y 3DS).
 - **Resto del mundo:** destacan PS3, PS2 y PS4.
 
 ### 4. Fabricantes
-
-| Fabricante | Ventas globales (M) |
-|---|---:|
-| Sony | 5.551,58 |
-| Nintendo | 5.289,06 |
-| Microsoft | 2.604,29 |
 
 Aunque la X360 está entre las consolas más vendidas, el mercado por fabricante lo dominan claramente **Sony y Nintendo**, tanto a nivel global como por regiones. Nintendo lidera en Norteamérica y Japón; Sony en Europa y el resto del mundo.
 
